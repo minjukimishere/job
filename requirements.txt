@@ -1,0 +1,15 @@
+requests
+streamlit
+beautifulsoup4
+python-docx
+python-dotenv
+langchain
+langchain-chroma
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+pymongo
+reportlab
+pillow
+fpdf
