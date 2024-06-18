@@ -4,6 +4,7 @@ beautifulsoup4
 python-docx
 python-dotenv
 langchain
+chromadb
 langchain-chroma
 langchain-community
 langchain-openai
