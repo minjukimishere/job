@@ -4,8 +4,7 @@ beautifulsoup4
 python-docx
 python-dotenv
 langchain
-chromadb==0.3.21
-langchain-chroma==0.0.2
+chromadb
 langchain-community
 langchain-openai
 langchain-core
